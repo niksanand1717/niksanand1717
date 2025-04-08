@@ -18,6 +18,18 @@ I'm a passionate **MERN Stack Developer** with experience in **React.js, Node.js
 
 ---
 
+### 🤝 Open Source Contributions
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github)](https://github.com/niksanand1717)
+
+#### ⭐ Chyan Bloom
+- **NextJS Frontend**: Fixed `Content-Policy-Headers` which strengthened application security and eliminated browser console warnings.
+- **[Developer Experience]**: Contributed to cleaner development environment by resolving security-related warnings.
+
+> "Contributing to open source has improved my collaboration skills and deepened my understanding of software development practices."
+
+---
+
 ### 💻 Featured Projects
 
 [![Wish Bloom](https://img.shields.io/badge/Wish%20Bloom-SaaS%20App%20for%20Automating%20Birthday%20Wishes-brightgreen?style=for-the-badge)]()  
