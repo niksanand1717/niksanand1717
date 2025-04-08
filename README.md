@@ -28,7 +28,7 @@ I'm a passionate **MERN Stack Developer** with experience in **React.js, Node.js
 ### 🏆 Experience
 
 [![iSchoolConnect](https://img.shields.io/badge/iSchoolConnect-Intern%20Software%20Engineer-blue?style=for-the-badge)](https://ischoolconnect.com/)  
-**Feb 2024 – Present**  
+**Nov 2024 – Present**  
 - Part of the team migrating the backend infrastructure.  
 - Working with **Next.js** as a backend framework.  
 - Implemented **SEO enhancements** using **Strapi with Angular**.  
