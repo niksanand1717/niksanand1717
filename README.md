@@ -59,7 +59,7 @@ I'm a passionate **MERN Stack Developer** with experience in **React.js, Node.js
 
 ### 📊 GitHub Stats & Streaks
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niksanand1717&show_icons=true&theme=radical)](https://github.com/niksanand1717)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niksanand1717&show_icons=true&theme=radical&count_private=true)](https://github.com/niksanand1717)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=niksanand1717&theme=radical)](https://github.com/niksanand1717)  
 
 ---
